@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.grid-layout-70-30 {
+  display: grid;
+  grid-template-columns: 70% 28%;
+  /* You might also want to add a gap property */
+  /* gap: 1.5rem; */ /* Example gap */
+}
