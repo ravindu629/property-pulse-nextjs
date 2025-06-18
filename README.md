@@ -2,7 +2,7 @@
 
 > A web application to help you find your next rental property.
 
-<img src="/public/images/screen.jpg" />
+<img src="/public/images/screen.png" />
 
 ## Features
 
